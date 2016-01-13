@@ -1,0 +1,61 @@
+#rcorners3 {
+    border-radius: 25px;
+    background: url(paper.gif);
+    background-position: left top;
+    background-repeat: repeat;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+} 
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;    
+}
+#rcorners13 {
+    border-radius: 25px;
+    background: #cacaca;
+    padding: 20px; 
+    width: 200px;
+    height: 150px;    
+}
+
+#rcorners2 {
+    border-radius: 25px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    width: 398px;
+    height: 65px;    
+}
+#login{
+	font-size:24px;
+	color:#ffffff;
+}
+.border12 {
+
+
+	border-radius: 77px 13px 0px 0px;
+    border-top: 2px solid #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+	
+     border-left:8px solid #73AD21;
+     border-bottom:0px dotted;
+     border-right: 0px solid;
+ }
+
+body{background-color:#333333;
+}
+h1{color:#cc0013;
+}
+hr{color:#ffffff;}
+
+
+
+Caution: Before entering your uNID or password, verify that the address in the URL bar of your browser is directing you to a University of Utah web site. 
+
+Important security information: This login uses cookies to provide access to the site you requested and to other protected University of Utah websites. For your security, log out of the services you are using and exit your browser when you have finished your session. Some browsers, including Google Chrome, retain cookie information by default even after you close your browser. Review your browser’s support documentation to set your browser to clear cookies automatically upon exit.  Instructions for Google Chrome. 
