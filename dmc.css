@@ -23,6 +23,14 @@
     min-width: 200px;	
     height: 150px;    
 }
+#rcorners15 {
+    border-radius: 25px;
+    background: #ffffff;
+    padding: 20px; 
+    width: 73%;
+    min-width: 200px;	
+    height: 150px;    
+}
 
 #rcorners2 {
     border-radius: 25px;
@@ -57,7 +65,20 @@ hr{color:#ffffff;}
 color:#ffffff;
 align:center
 }
-
+.buttonGroup
+{
+align:right
+}
+ul { 
+    display: block;
+    list-style-type: disc;
+    margin-top: 1em;
+    margin-bottom: 1 em;
+    margin-left: 80%;
+    margin-right: 0;
+    padding-left: 40px;
+	
+} 
 
 
 Caution: Before entering your uNID or password, verify that the address in the URL bar of your browser is directing you to a University of Utah web site. 
