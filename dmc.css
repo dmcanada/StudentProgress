@@ -55,6 +55,7 @@
 	border-right: 0px solid;
  }
 
+
 body{background-color:#333333;
 }
 h1{color:#cc0013;
@@ -79,8 +80,18 @@ ul {
     padding-left: 40px;
 	
 } 
+#studentName
+{
+	font-size:28px;
+}
+.studentForm
+{
+	font-size:23px;
+	margin-left: 13px;
 
-
-Caution: Before entering your uNID or password, verify that the address in the URL bar of your browser is directing you to a University of Utah web site. 
-
-Important security information: This login uses cookies to provide access to the site you requested and to other protected University of Utah websites. For your security, log out of the services you are using and exit your browser when you have finished your session. Some browsers, including Google Chrome, retain cookie information by default even after you close your browser. Review your browser’s support documentation to set your browser to clear cookies automatically upon exit.  Instructions for Google Chrome. 
+}
+.studentData
+{
+	font-size:18px;
+	margin-left: 7px;
+}
