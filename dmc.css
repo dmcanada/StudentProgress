@@ -19,9 +19,9 @@
     border-radius: 25px;
     background: #cacaca;
     padding: 20px; 
-    width: 33%;
+    width: 93%;
     min-width: 200px;	
-    height: 150px;    
+    min-height: 150px;    
 }
 #rcorners15 {
     border-radius: 25px;
@@ -99,8 +99,14 @@ ul {
 	margin-left: 7px;
 }
 table {
-     
+	
+
 	 width:90%;
+ }
+ th{
+	border: 2px solid black;
+
+	 
  }
 .firstCol
  {
